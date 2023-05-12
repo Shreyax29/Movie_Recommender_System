@@ -1,6 +1,6 @@
-# Movie_Recommender_System
+# Movie Recommender System using Sentiment Analysis
 
-The Movie Recommender System has features like - 
+The Movie Recommender System has the following features - 
 
 1. When the user searches for a movie, it will provide the details of movie-name, genre, released date, status, IMDB rating. 
 
